@@ -1,0 +1,1502 @@
+movieId,rating,userId,mealskew,meal_name
+2,3.0,0,2.0,Chicken Curry
+3,1.0,0,3.0,Spicy Chicken Nuggest
+5,2.0,0,5.0,Hamburger
+9,4.0,0,9.0,Taco Surprise
+11,1.0,0,11.0,Meatloaf
+12,2.0,0,12.0,Ceaser Salad
+15,1.0,0,15.0,BBQ Ribs
+17,1.0,0,17.0,Sushi Plate
+19,1.0,0,19.0,Cheesesteak Sandwhich
+21,1.0,0,21.0,Lasagna
+23,1.0,0,23.0,Orange Chicken
+26,3.0,0,26.0,Spicy Beef Plate
+27,1.0,0,27.0,Salmon with Mashed Potatoes
+28,1.0,0,28.0,Penne Tomatoe Pasta
+29,1.0,0,29.0,Pork Sliders
+30,1.0,0,30.0,Vietnamese Sandwich
+31,1.0,0,31.0,Chicken Wrap
+34,1.0,0,,Cowboy Burger
+37,1.0,0,,Cowboy Burger
+41,2.0,0,,Cowboy Burger
+44,1.0,0,,Cowboy Burger
+45,2.0,0,,Cowboy Burger
+46,1.0,0,,Cowboy Burger
+47,1.0,0,,Cowboy Burger
+48,1.0,0,,Cowboy Burger
+50,1.0,0,,Cowboy Burger
+51,1.0,0,,Cowboy Burger
+54,1.0,0,,Cowboy Burger
+55,1.0,0,,Cowboy Burger
+59,2.0,0,,Cowboy Burger
+61,2.0,0,,Cowboy Burger
+64,1.0,0,,Cowboy Burger
+67,1.0,0,,Cowboy Burger
+68,1.0,0,,Cowboy Burger
+69,1.0,0,,Cowboy Burger
+71,1.0,0,,Cowboy Burger
+72,1.0,0,,Cowboy Burger
+77,2.0,0,,Cowboy Burger
+79,1.0,0,,Cowboy Burger
+83,1.0,0,,Cowboy Burger
+87,1.0,0,,Cowboy Burger
+89,2.0,0,,Cowboy Burger
+91,3.0,0,,Cowboy Burger
+92,4.0,0,,Cowboy Burger
+94,1.0,0,,Cowboy Burger
+95,2.0,0,,Cowboy Burger
+96,1.0,0,,Cowboy Burger
+98,1.0,0,,Cowboy Burger
+99,1.0,0,,Cowboy Burger
+2,2.0,1,2.0,Chicken Curry
+3,1.0,1,3.0,Spicy Chicken Nuggest
+4,2.0,1,4.0,Pretzels and Cheese Plate
+6,1.0,1,6.0,Spicy Pork Sliders
+9,3.0,1,9.0,Taco Surprise
+12,1.0,1,12.0,Ceaser Salad
+13,1.0,1,13.0,Mandarin Chicken PLate
+14,1.0,1,14.0,Kung Pao Chicken
+16,1.0,1,16.0,Fried Rice Plate
+19,1.0,1,19.0,Cheesesteak Sandwhich
+21,3.0,1,21.0,Lasagna
+27,1.0,1,27.0,Salmon with Mashed Potatoes
+28,3.0,1,28.0,Penne Tomatoe Pasta
+33,1.0,1,,Cowboy Burger
+36,2.0,1,,Cowboy Burger
+37,1.0,1,,Cowboy Burger
+40,1.0,1,,Cowboy Burger
+41,2.0,1,,Cowboy Burger
+43,1.0,1,,Cowboy Burger
+44,1.0,1,,Cowboy Burger
+47,1.0,1,,Cowboy Burger
+50,1.0,1,,Cowboy Burger
+54,1.0,1,,Cowboy Burger
+56,2.0,1,,Cowboy Burger
+57,1.0,1,,Cowboy Burger
+58,1.0,1,,Cowboy Burger
+60,1.0,1,,Cowboy Burger
+62,4.0,1,,Cowboy Burger
+63,1.0,1,,Cowboy Burger
+67,1.0,1,,Cowboy Burger
+68,4.0,1,,Cowboy Burger
+70,2.0,1,,Cowboy Burger
+72,1.0,1,,Cowboy Burger
+73,1.0,1,,Cowboy Burger
+74,2.0,1,,Cowboy Burger
+76,1.0,1,,Cowboy Burger
+77,3.0,1,,Cowboy Burger
+78,1.0,1,,Cowboy Burger
+81,1.0,1,,Cowboy Burger
+82,1.0,1,,Cowboy Burger
+85,3.0,1,,Cowboy Burger
+86,2.0,1,,Cowboy Burger
+88,2.0,1,,Cowboy Burger
+91,1.0,1,,Cowboy Burger
+92,2.0,1,,Cowboy Burger
+93,1.0,1,,Cowboy Burger
+94,2.0,1,,Cowboy Burger
+96,1.0,1,,Cowboy Burger
+97,1.0,1,,Cowboy Burger
+4,3.0,2,4.0,Pretzels and Cheese Plate
+6,1.0,2,6.0,Spicy Pork Sliders
+8,5.0,2,8.0,Chicken Chow Mein
+9,1.0,2,9.0,Taco Surprise
+10,1.0,2,10.0,Roasted Eggplant 
+12,3.0,2,12.0,Ceaser Salad
+13,1.0,2,13.0,Mandarin Chicken PLate
+15,2.0,2,15.0,BBQ Ribs
+18,2.0,2,18.0,Pepperoni Pizza
+19,4.0,2,19.0,Cheesesteak Sandwhich
+22,1.0,2,22.0,Pulled Pork Plate
+26,1.0,2,26.0,Spicy Beef Plate
+28,1.0,2,28.0,Penne Tomatoe Pasta
+34,4.0,2,,Cowboy Burger
+35,1.0,2,,Cowboy Burger
+37,5.0,2,,Cowboy Burger
+38,1.0,2,,Cowboy Burger
+39,5.0,2,,Cowboy Burger
+40,4.0,2,,Cowboy Burger
+47,1.0,2,,Cowboy Burger
+50,1.0,2,,Cowboy Burger
+52,2.0,2,,Cowboy Burger
+54,1.0,2,,Cowboy Burger
+55,1.0,2,,Cowboy Burger
+57,2.0,2,,Cowboy Burger
+58,2.0,2,,Cowboy Burger
+59,1.0,2,,Cowboy Burger
+61,1.0,2,,Cowboy Burger
+62,1.0,2,,Cowboy Burger
+64,1.0,2,,Cowboy Burger
+65,1.0,2,,Cowboy Burger
+66,3.0,2,,Cowboy Burger
+68,1.0,2,,Cowboy Burger
+71,3.0,2,,Cowboy Burger
+76,1.0,2,,Cowboy Burger
+77,1.0,2,,Cowboy Burger
+78,1.0,2,,Cowboy Burger
+80,1.0,2,,Cowboy Burger
+83,5.0,2,,Cowboy Burger
+85,1.0,2,,Cowboy Burger
+87,2.0,2,,Cowboy Burger
+88,1.0,2,,Cowboy Burger
+89,4.0,2,,Cowboy Burger
+90,1.0,2,,Cowboy Burger
+92,4.0,2,,Cowboy Burger
+93,5.0,2,,Cowboy Burger
+0,1.0,3,0.0,Cheese Pizza
+1,1.0,3,1.0,Burrito
+2,1.0,3,2.0,Chicken Curry
+7,3.0,3,7.0,Nachos
+8,3.0,3,8.0,Chicken Chow Mein
+9,1.0,3,9.0,Taco Surprise
+14,1.0,3,14.0,Kung Pao Chicken
+15,1.0,3,15.0,BBQ Ribs
+16,1.0,3,16.0,Fried Rice Plate
+18,4.0,3,18.0,Pepperoni Pizza
+19,1.0,3,19.0,Cheesesteak Sandwhich
+24,3.0,3,24.0,Chili
+26,1.0,3,26.0,Spicy Beef Plate
+29,3.0,3,29.0,Pork Sliders
+33,1.0,3,,Cowboy Burger
+34,3.0,3,,Cowboy Burger
+35,1.0,3,,Cowboy Burger
+36,3.0,3,,Cowboy Burger
+37,1.0,3,,Cowboy Burger
+38,2.0,3,,Cowboy Burger
+43,1.0,3,,Cowboy Burger
+44,1.0,3,,Cowboy Burger
+46,1.0,3,,Cowboy Burger
+47,1.0,3,,Cowboy Burger
+51,5.0,3,,Cowboy Burger
+52,3.0,3,,Cowboy Burger
+56,1.0,3,,Cowboy Burger
+58,1.0,3,,Cowboy Burger
+60,3.0,3,,Cowboy Burger
+62,1.0,3,,Cowboy Burger
+65,2.0,3,,Cowboy Burger
+66,1.0,3,,Cowboy Burger
+67,1.0,3,,Cowboy Burger
+68,2.0,3,,Cowboy Burger
+70,1.0,3,,Cowboy Burger
+72,2.0,3,,Cowboy Burger
+76,3.0,3,,Cowboy Burger
+79,3.0,3,,Cowboy Burger
+80,4.0,3,,Cowboy Burger
+81,1.0,3,,Cowboy Burger
+83,1.0,3,,Cowboy Burger
+84,1.0,3,,Cowboy Burger
+86,1.0,3,,Cowboy Burger
+87,2.0,3,,Cowboy Burger
+88,4.0,3,,Cowboy Burger
+89,1.0,3,,Cowboy Burger
+91,1.0,3,,Cowboy Burger
+94,3.0,3,,Cowboy Burger
+1,1.0,4,1.0,Burrito
+6,1.0,4,6.0,Spicy Pork Sliders
+8,1.0,4,8.0,Chicken Chow Mein
+9,1.0,4,9.0,Taco Surprise
+10,1.0,4,10.0,Roasted Eggplant 
+11,1.0,4,11.0,Meatloaf
+12,1.0,4,12.0,Ceaser Salad
+13,1.0,4,13.0,Mandarin Chicken PLate
+14,2.0,4,14.0,Kung Pao Chicken
+15,1.0,4,15.0,BBQ Ribs
+17,1.0,4,17.0,Sushi Plate
+20,1.0,4,20.0,Southwest Salad
+22,1.0,4,22.0,Pulled Pork Plate
+23,1.0,4,23.0,Orange Chicken
+24,1.0,4,24.0,Chili
+29,4.0,4,29.0,Pork Sliders
+30,1.0,4,30.0,Vietnamese Sandwich
+31,1.0,4,31.0,Chicken Wrap
+34,1.0,4,,Cowboy Burger
+35,1.0,4,,Cowboy Burger
+36,1.0,4,,Cowboy Burger
+39,2.0,4,,Cowboy Burger
+40,3.0,4,,Cowboy Burger
+41,4.0,4,,Cowboy Burger
+43,2.0,4,,Cowboy Burger
+44,1.0,4,,Cowboy Burger
+45,1.0,4,,Cowboy Burger
+46,1.0,4,,Cowboy Burger
+47,1.0,4,,Cowboy Burger
+49,2.0,4,,Cowboy Burger
+50,1.0,4,,Cowboy Burger
+51,1.0,4,,Cowboy Burger
+52,4.0,4,,Cowboy Burger
+54,1.0,4,,Cowboy Burger
+55,1.0,4,,Cowboy Burger
+60,3.0,4,,Cowboy Burger
+61,1.0,4,,Cowboy Burger
+62,4.0,4,,Cowboy Burger
+63,3.0,4,,Cowboy Burger
+65,1.0,4,,Cowboy Burger
+67,2.0,4,,Cowboy Burger
+69,1.0,4,,Cowboy Burger
+70,4.0,4,,Cowboy Burger
+71,1.0,4,,Cowboy Burger
+73,1.0,4,,Cowboy Burger
+78,1.0,4,,Cowboy Burger
+84,1.0,4,,Cowboy Burger
+85,1.0,4,,Cowboy Burger
+87,3.0,4,,Cowboy Burger
+88,3.0,4,,Cowboy Burger
+89,2.0,4,,Cowboy Burger
+96,1.0,4,,Cowboy Burger
+97,1.0,4,,Cowboy Burger
+98,1.0,4,,Cowboy Burger
+99,1.0,4,,Cowboy Burger
+0,1.0,5,0.0,Cheese Pizza
+1,1.0,5,1.0,Burrito
+4,1.0,5,4.0,Pretzels and Cheese Plate
+5,1.0,5,5.0,Hamburger
+8,1.0,5,8.0,Chicken Chow Mein
+9,3.0,5,9.0,Taco Surprise
+10,2.0,5,10.0,Roasted Eggplant 
+13,3.0,5,13.0,Mandarin Chicken PLate
+15,1.0,5,15.0,BBQ Ribs
+19,1.0,5,19.0,Cheesesteak Sandwhich
+20,3.0,5,20.0,Southwest Salad
+21,2.0,5,21.0,Lasagna
+23,3.0,5,23.0,Orange Chicken
+27,1.0,5,27.0,Salmon with Mashed Potatoes
+28,1.0,5,28.0,Penne Tomatoe Pasta
+29,1.0,5,29.0,Pork Sliders
+31,1.0,5,31.0,Chicken Wrap
+36,3.0,5,,Cowboy Burger
+38,2.0,5,,Cowboy Burger
+39,1.0,5,,Cowboy Burger
+42,1.0,5,,Cowboy Burger
+48,3.0,5,,Cowboy Burger
+49,4.0,5,,Cowboy Burger
+50,3.0,5,,Cowboy Burger
+51,1.0,5,,Cowboy Burger
+52,1.0,5,,Cowboy Burger
+54,1.0,5,,Cowboy Burger
+55,5.0,5,,Cowboy Burger
+56,3.0,5,,Cowboy Burger
+58,1.0,5,,Cowboy Burger
+60,1.0,5,,Cowboy Burger
+61,1.0,5,,Cowboy Burger
+64,3.0,5,,Cowboy Burger
+65,2.0,5,,Cowboy Burger
+68,4.0,5,,Cowboy Burger
+70,1.0,5,,Cowboy Burger
+71,1.0,5,,Cowboy Burger
+72,1.0,5,,Cowboy Burger
+74,1.0,5,,Cowboy Burger
+79,1.0,5,,Cowboy Burger
+81,2.0,5,,Cowboy Burger
+84,1.0,5,,Cowboy Burger
+85,1.0,5,,Cowboy Burger
+86,1.0,5,,Cowboy Burger
+88,1.0,5,,Cowboy Burger
+90,4.0,5,,Cowboy Burger
+91,2.0,5,,Cowboy Burger
+95,2.0,5,,Cowboy Burger
+99,1.0,5,,Cowboy Burger
+0,1.0,6,0.0,Cheese Pizza
+1,1.0,6,1.0,Burrito
+2,3.0,6,2.0,Chicken Curry
+5,1.0,6,5.0,Hamburger
+6,1.0,6,6.0,Spicy Pork Sliders
+9,1.0,6,9.0,Taco Surprise
+10,1.0,6,10.0,Roasted Eggplant 
+15,2.0,6,15.0,BBQ Ribs
+16,2.0,6,16.0,Fried Rice Plate
+17,1.0,6,17.0,Sushi Plate
+18,1.0,6,18.0,Pepperoni Pizza
+20,1.0,6,20.0,Southwest Salad
+21,1.0,6,21.0,Lasagna
+22,1.0,6,22.0,Pulled Pork Plate
+24,1.0,6,24.0,Chili
+25,5.0,6,25.0,Roast Beef Sandwich
+26,1.0,6,26.0,Spicy Beef Plate
+28,1.0,6,28.0,Penne Tomatoe Pasta
+30,1.0,6,30.0,Vietnamese Sandwich
+33,1.0,6,,Cowboy Burger
+38,1.0,6,,Cowboy Burger
+39,1.0,6,,Cowboy Burger
+43,4.0,6,,Cowboy Burger
+44,1.0,6,,Cowboy Burger
+45,1.0,6,,Cowboy Burger
+48,1.0,6,,Cowboy Burger
+49,1.0,6,,Cowboy Burger
+50,1.0,6,,Cowboy Burger
+53,1.0,6,,Cowboy Burger
+54,1.0,6,,Cowboy Burger
+55,1.0,6,,Cowboy Burger
+56,1.0,6,,Cowboy Burger
+58,4.0,6,,Cowboy Burger
+59,1.0,6,,Cowboy Burger
+60,1.0,6,,Cowboy Burger
+61,3.0,6,,Cowboy Burger
+63,3.0,6,,Cowboy Burger
+66,1.0,6,,Cowboy Burger
+67,3.0,6,,Cowboy Burger
+68,1.0,6,,Cowboy Burger
+69,1.0,6,,Cowboy Burger
+71,2.0,6,,Cowboy Burger
+73,1.0,6,,Cowboy Burger
+75,1.0,6,,Cowboy Burger
+77,1.0,6,,Cowboy Burger
+79,1.0,6,,Cowboy Burger
+81,1.0,6,,Cowboy Burger
+84,1.0,6,,Cowboy Burger
+85,3.0,6,,Cowboy Burger
+86,1.0,6,,Cowboy Burger
+87,1.0,6,,Cowboy Burger
+88,1.0,6,,Cowboy Burger
+89,1.0,6,,Cowboy Burger
+91,2.0,6,,Cowboy Burger
+94,1.0,6,,Cowboy Burger
+95,2.0,6,,Cowboy Burger
+96,1.0,6,,Cowboy Burger
+1,1.0,7,1.0,Burrito
+2,2.0,7,2.0,Chicken Curry
+3,1.0,7,3.0,Spicy Chicken Nuggest
+4,1.0,7,4.0,Pretzels and Cheese Plate
+7,1.0,7,7.0,Nachos
+10,1.0,7,10.0,Roasted Eggplant 
+11,2.0,7,11.0,Meatloaf
+14,2.0,7,14.0,Kung Pao Chicken
+15,1.0,7,15.0,BBQ Ribs
+16,1.0,7,16.0,Fried Rice Plate
+18,1.0,7,18.0,Pepperoni Pizza
+21,1.0,7,21.0,Lasagna
+22,1.0,7,22.0,Pulled Pork Plate
+23,1.0,7,23.0,Orange Chicken
+25,5.0,7,25.0,Roast Beef Sandwich
+26,1.0,7,26.0,Spicy Beef Plate
+29,4.0,7,29.0,Pork Sliders
+30,1.0,7,30.0,Vietnamese Sandwich
+31,3.0,7,31.0,Chicken Wrap
+32,1.0,7,,Cowboy Burger
+33,1.0,7,,Cowboy Burger
+35,1.0,7,,Cowboy Burger
+37,2.0,7,,Cowboy Burger
+39,3.0,7,,Cowboy Burger
+40,2.0,7,,Cowboy Burger
+42,2.0,7,,Cowboy Burger
+44,1.0,7,,Cowboy Burger
+45,2.0,7,,Cowboy Burger
+47,4.0,7,,Cowboy Burger
+48,1.0,7,,Cowboy Burger
+49,1.0,7,,Cowboy Burger
+53,1.0,7,,Cowboy Burger
+54,1.0,7,,Cowboy Burger
+55,1.0,7,,Cowboy Burger
+56,1.0,7,,Cowboy Burger
+59,1.0,7,,Cowboy Burger
+61,2.0,7,,Cowboy Burger
+62,3.0,7,,Cowboy Burger
+63,2.0,7,,Cowboy Burger
+66,1.0,7,,Cowboy Burger
+67,3.0,7,,Cowboy Burger
+74,1.0,7,,Cowboy Burger
+75,1.0,7,,Cowboy Burger
+76,3.0,7,,Cowboy Burger
+77,1.0,7,,Cowboy Burger
+81,1.0,7,,Cowboy Burger
+82,1.0,7,,Cowboy Burger
+84,2.0,7,,Cowboy Burger
+85,4.0,7,,Cowboy Burger
+86,1.0,7,,Cowboy Burger
+92,2.0,7,,Cowboy Burger
+96,1.0,7,,Cowboy Burger
+97,1.0,7,,Cowboy Burger
+98,1.0,7,,Cowboy Burger
+0,1.0,8,0.0,Cheese Pizza
+2,4.0,8,2.0,Chicken Curry
+3,2.0,8,3.0,Spicy Chicken Nuggest
+4,2.0,8,4.0,Pretzels and Cheese Plate
+5,1.0,8,5.0,Hamburger
+7,1.0,8,7.0,Nachos
+9,1.0,8,9.0,Taco Surprise
+11,1.0,8,11.0,Meatloaf
+15,1.0,8,15.0,BBQ Ribs
+18,1.0,8,18.0,Pepperoni Pizza
+19,1.0,8,19.0,Cheesesteak Sandwhich
+21,1.0,8,21.0,Lasagna
+29,5.0,8,29.0,Pork Sliders
+31,3.0,8,31.0,Chicken Wrap
+33,1.0,8,,Cowboy Burger
+35,1.0,8,,Cowboy Burger
+36,1.0,8,,Cowboy Burger
+40,2.0,8,,Cowboy Burger
+44,1.0,8,,Cowboy Burger
+45,1.0,8,,Cowboy Burger
+50,1.0,8,,Cowboy Burger
+51,1.0,8,,Cowboy Burger
+52,5.0,8,,Cowboy Burger
+53,5.0,8,,Cowboy Burger
+54,1.0,8,,Cowboy Burger
+55,1.0,8,,Cowboy Burger
+56,1.0,8,,Cowboy Burger
+58,4.0,8,,Cowboy Burger
+60,3.0,8,,Cowboy Burger
+62,4.0,8,,Cowboy Burger
+64,1.0,8,,Cowboy Burger
+67,3.0,8,,Cowboy Burger
+69,1.0,8,,Cowboy Burger
+71,1.0,8,,Cowboy Burger
+72,3.0,8,,Cowboy Burger
+77,3.0,8,,Cowboy Burger
+78,1.0,8,,Cowboy Burger
+79,1.0,8,,Cowboy Burger
+83,1.0,8,,Cowboy Burger
+85,5.0,8,,Cowboy Burger
+86,1.0,8,,Cowboy Burger
+88,1.0,8,,Cowboy Burger
+90,1.0,8,,Cowboy Burger
+92,2.0,8,,Cowboy Burger
+95,4.0,8,,Cowboy Burger
+96,3.0,8,,Cowboy Burger
+97,1.0,8,,Cowboy Burger
+98,1.0,8,,Cowboy Burger
+99,1.0,8,,Cowboy Burger
+2,3.0,9,2.0,Chicken Curry
+3,1.0,9,3.0,Spicy Chicken Nuggest
+4,1.0,9,4.0,Pretzels and Cheese Plate
+5,1.0,9,5.0,Hamburger
+6,1.0,9,6.0,Spicy Pork Sliders
+7,5.0,9,7.0,Nachos
+9,1.0,9,9.0,Taco Surprise
+12,1.0,9,12.0,Ceaser Salad
+14,3.0,9,14.0,Kung Pao Chicken
+15,1.0,9,15.0,BBQ Ribs
+19,1.0,9,19.0,Cheesesteak Sandwhich
+21,1.0,9,21.0,Lasagna
+22,1.0,9,22.0,Pulled Pork Plate
+24,1.0,9,24.0,Chili
+25,1.0,9,25.0,Roast Beef Sandwich
+26,1.0,9,26.0,Spicy Beef Plate
+30,3.0,9,30.0,Vietnamese Sandwich
+32,4.0,9,,Cowboy Burger
+35,2.0,9,,Cowboy Burger
+36,2.0,9,,Cowboy Burger
+37,2.0,9,,Cowboy Burger
+38,1.0,9,,Cowboy Burger
+39,1.0,9,,Cowboy Burger
+43,3.0,9,,Cowboy Burger
+49,5.0,9,,Cowboy Burger
+50,3.0,9,,Cowboy Burger
+53,1.0,9,,Cowboy Burger
+54,1.0,9,,Cowboy Burger
+58,1.0,9,,Cowboy Burger
+59,1.0,9,,Cowboy Burger
+60,1.0,9,,Cowboy Burger
+61,1.0,9,,Cowboy Burger
+63,3.0,9,,Cowboy Burger
+64,3.0,9,,Cowboy Burger
+68,1.0,9,,Cowboy Burger
+69,1.0,9,,Cowboy Burger
+70,3.0,9,,Cowboy Burger
+71,1.0,9,,Cowboy Burger
+73,2.0,9,,Cowboy Burger
+75,1.0,9,,Cowboy Burger
+77,2.0,9,,Cowboy Burger
+81,2.0,9,,Cowboy Burger
+82,1.0,9,,Cowboy Burger
+83,1.0,9,,Cowboy Burger
+84,1.0,9,,Cowboy Burger
+86,1.0,9,,Cowboy Burger
+87,4.0,9,,Cowboy Burger
+88,1.0,9,,Cowboy Burger
+90,3.0,9,,Cowboy Burger
+94,2.0,9,,Cowboy Burger
+95,3.0,9,,Cowboy Burger
+97,2.0,9,,Cowboy Burger
+98,1.0,9,,Cowboy Burger
+0,3.0,10,0.0,Cheese Pizza
+2,4.0,10,2.0,Chicken Curry
+4,3.0,10,4.0,Pretzels and Cheese Plate
+7,1.0,10,7.0,Nachos
+8,1.0,10,8.0,Chicken Chow Mein
+10,1.0,10,10.0,Roasted Eggplant 
+13,2.0,10,13.0,Mandarin Chicken PLate
+14,1.0,10,14.0,Kung Pao Chicken
+16,2.0,10,16.0,Fried Rice Plate
+17,1.0,10,17.0,Sushi Plate
+18,1.0,10,18.0,Pepperoni Pizza
+21,1.0,10,21.0,Lasagna
+22,1.0,10,22.0,Pulled Pork Plate
+24,1.0,10,24.0,Chili
+25,3.0,10,25.0,Roast Beef Sandwich
+28,1.0,10,28.0,Penne Tomatoe Pasta
+35,1.0,10,,Cowboy Burger
+36,1.0,10,,Cowboy Burger
+37,1.0,10,,Cowboy Burger
+38,1.0,10,,Cowboy Burger
+39,1.0,10,,Cowboy Burger
+40,4.0,10,,Cowboy Burger
+41,2.0,10,,Cowboy Burger
+42,3.0,10,,Cowboy Burger
+43,1.0,10,,Cowboy Burger
+49,3.0,10,,Cowboy Burger
+50,1.0,10,,Cowboy Burger
+51,1.0,10,,Cowboy Burger
+52,1.0,10,,Cowboy Burger
+55,2.0,10,,Cowboy Burger
+56,1.0,10,,Cowboy Burger
+58,1.0,10,,Cowboy Burger
+63,1.0,10,,Cowboy Burger
+66,1.0,10,,Cowboy Burger
+67,2.0,10,,Cowboy Burger
+68,1.0,10,,Cowboy Burger
+75,1.0,10,,Cowboy Burger
+77,1.0,10,,Cowboy Burger
+79,1.0,10,,Cowboy Burger
+86,1.0,10,,Cowboy Burger
+89,3.0,10,,Cowboy Burger
+90,1.0,10,,Cowboy Burger
+97,1.0,10,,Cowboy Burger
+98,1.0,10,,Cowboy Burger
+0,1.0,11,0.0,Cheese Pizza
+6,2.0,11,6.0,Spicy Pork Sliders
+9,1.0,11,9.0,Taco Surprise
+10,1.0,11,10.0,Roasted Eggplant 
+11,1.0,11,11.0,Meatloaf
+12,1.0,11,12.0,Ceaser Salad
+13,4.0,11,13.0,Mandarin Chicken PLate
+16,1.0,11,16.0,Fried Rice Plate
+18,5.0,11,18.0,Pepperoni Pizza
+19,4.0,11,19.0,Cheesesteak Sandwhich
+20,1.0,11,20.0,Southwest Salad
+21,1.0,11,21.0,Lasagna
+22,1.0,11,22.0,Pulled Pork Plate
+23,5.0,11,23.0,Orange Chicken
+25,1.0,11,25.0,Roast Beef Sandwich
+27,5.0,11,27.0,Salmon with Mashed Potatoes
+30,5.0,11,30.0,Vietnamese Sandwich
+32,5.0,11,,Cowboy Burger
+35,3.0,11,,Cowboy Burger
+36,2.0,11,,Cowboy Burger
+37,2.0,11,,Cowboy Burger
+38,4.0,11,,Cowboy Burger
+39,1.0,11,,Cowboy Burger
+40,1.0,11,,Cowboy Burger
+41,1.0,11,,Cowboy Burger
+43,2.0,11,,Cowboy Burger
+45,1.0,11,,Cowboy Burger
+47,1.0,11,,Cowboy Burger
+48,5.0,11,,Cowboy Burger
+50,4.0,11,,Cowboy Burger
+51,3.0,11,,Cowboy Burger
+59,1.0,11,,Cowboy Burger
+61,1.0,11,,Cowboy Burger
+62,1.0,11,,Cowboy Burger
+64,1.0,11,,Cowboy Burger
+66,4.0,11,,Cowboy Burger
+67,1.0,11,,Cowboy Burger
+69,5.0,11,,Cowboy Burger
+70,1.0,11,,Cowboy Burger
+71,3.0,11,,Cowboy Burger
+72,3.0,11,,Cowboy Burger
+75,3.0,11,,Cowboy Burger
+76,1.0,11,,Cowboy Burger
+77,1.0,11,,Cowboy Burger
+78,1.0,11,,Cowboy Burger
+79,5.0,11,,Cowboy Burger
+80,3.0,11,,Cowboy Burger
+81,4.0,11,,Cowboy Burger
+82,1.0,11,,Cowboy Burger
+86,1.0,11,,Cowboy Burger
+88,1.0,11,,Cowboy Burger
+89,1.0,11,,Cowboy Burger
+90,4.0,11,,Cowboy Burger
+94,2.0,11,,Cowboy Burger
+97,3.0,11,,Cowboy Burger
+99,1.0,11,,Cowboy Burger
+2,1.0,12,2.0,Chicken Curry
+4,1.0,12,4.0,Pretzels and Cheese Plate
+6,1.0,12,6.0,Spicy Pork Sliders
+7,3.0,12,7.0,Nachos
+8,1.0,12,8.0,Chicken Chow Mein
+14,1.0,12,14.0,Kung Pao Chicken
+15,2.0,12,15.0,BBQ Ribs
+16,4.0,12,16.0,Fried Rice Plate
+17,5.0,12,17.0,Sushi Plate
+18,2.0,12,18.0,Pepperoni Pizza
+21,1.0,12,21.0,Lasagna
+22,2.0,12,22.0,Pulled Pork Plate
+23,3.0,12,23.0,Orange Chicken
+24,1.0,12,24.0,Chili
+25,1.0,12,25.0,Roast Beef Sandwich
+27,5.0,12,27.0,Salmon with Mashed Potatoes
+30,2.0,12,30.0,Vietnamese Sandwich
+31,4.0,12,31.0,Chicken Wrap
+35,5.0,12,,Cowboy Burger
+38,1.0,12,,Cowboy Burger
+41,1.0,12,,Cowboy Burger
+44,2.0,12,,Cowboy Burger
+45,1.0,12,,Cowboy Burger
+50,4.0,12,,Cowboy Burger
+51,1.0,12,,Cowboy Burger
+52,1.0,12,,Cowboy Burger
+53,1.0,12,,Cowboy Burger
+54,1.0,12,,Cowboy Burger
+56,2.0,12,,Cowboy Burger
+57,1.0,12,,Cowboy Burger
+60,1.0,12,,Cowboy Burger
+63,1.0,12,,Cowboy Burger
+64,5.0,12,,Cowboy Burger
+66,3.0,12,,Cowboy Burger
+67,1.0,12,,Cowboy Burger
+70,1.0,12,,Cowboy Burger
+72,1.0,12,,Cowboy Burger
+74,1.0,12,,Cowboy Burger
+75,1.0,12,,Cowboy Burger
+77,1.0,12,,Cowboy Burger
+78,1.0,12,,Cowboy Burger
+79,3.0,12,,Cowboy Burger
+82,2.0,12,,Cowboy Burger
+83,1.0,12,,Cowboy Burger
+84,1.0,12,,Cowboy Burger
+85,1.0,12,,Cowboy Burger
+86,1.0,12,,Cowboy Burger
+87,1.0,12,,Cowboy Burger
+88,1.0,12,,Cowboy Burger
+91,3.0,12,,Cowboy Burger
+92,1.0,12,,Cowboy Burger
+94,4.0,12,,Cowboy Burger
+95,2.0,12,,Cowboy Burger
+96,1.0,12,,Cowboy Burger
+98,2.0,12,,Cowboy Burger
+0,1.0,13,0.0,Cheese Pizza
+3,1.0,13,3.0,Spicy Chicken Nuggest
+4,2.0,13,4.0,Pretzels and Cheese Plate
+5,1.0,13,5.0,Hamburger
+6,1.0,13,6.0,Spicy Pork Sliders
+12,1.0,13,12.0,Ceaser Salad
+14,2.0,13,14.0,Kung Pao Chicken
+15,1.0,13,15.0,BBQ Ribs
+17,1.0,13,17.0,Sushi Plate
+18,3.0,13,18.0,Pepperoni Pizza
+20,1.0,13,20.0,Southwest Salad
+21,1.0,13,21.0,Lasagna
+22,1.0,13,22.0,Pulled Pork Plate
+26,1.0,13,26.0,Spicy Beef Plate
+27,1.0,13,27.0,Salmon with Mashed Potatoes
+29,3.0,13,29.0,Pork Sliders
+31,1.0,13,31.0,Chicken Wrap
+33,1.0,13,,Cowboy Burger
+40,2.0,13,,Cowboy Burger
+43,2.0,13,,Cowboy Burger
+44,1.0,13,,Cowboy Burger
+45,1.0,13,,Cowboy Burger
+49,1.0,13,,Cowboy Burger
+51,1.0,13,,Cowboy Burger
+52,2.0,13,,Cowboy Burger
+53,3.0,13,,Cowboy Burger
+54,1.0,13,,Cowboy Burger
+62,1.0,13,,Cowboy Burger
+63,2.0,13,,Cowboy Burger
+64,1.0,13,,Cowboy Burger
+68,1.0,13,,Cowboy Burger
+71,1.0,13,,Cowboy Burger
+72,3.0,13,,Cowboy Burger
+73,1.0,13,,Cowboy Burger
+74,3.0,13,,Cowboy Burger
+77,2.0,13,,Cowboy Burger
+78,1.0,13,,Cowboy Burger
+79,2.0,13,,Cowboy Burger
+83,3.0,13,,Cowboy Burger
+85,1.0,13,,Cowboy Burger
+86,1.0,13,,Cowboy Burger
+87,2.0,13,,Cowboy Burger
+88,2.0,13,,Cowboy Burger
+90,1.0,13,,Cowboy Burger
+93,4.0,13,,Cowboy Burger
+94,1.0,13,,Cowboy Burger
+98,1.0,13,,Cowboy Burger
+99,1.0,13,,Cowboy Burger
+1,1.0,14,1.0,Burrito
+3,3.0,14,3.0,Spicy Chicken Nuggest
+4,1.0,14,4.0,Pretzels and Cheese Plate
+5,1.0,14,5.0,Hamburger
+6,1.0,14,6.0,Spicy Pork Sliders
+7,1.0,14,7.0,Nachos
+9,1.0,14,9.0,Taco Surprise
+10,1.0,14,10.0,Roasted Eggplant 
+11,1.0,14,11.0,Meatloaf
+12,1.0,14,12.0,Ceaser Salad
+13,1.0,14,13.0,Mandarin Chicken PLate
+14,3.0,14,14.0,Kung Pao Chicken
+15,1.0,14,15.0,BBQ Ribs
+16,1.0,14,16.0,Fried Rice Plate
+17,1.0,14,17.0,Sushi Plate
+20,1.0,14,20.0,Southwest Salad
+21,1.0,14,21.0,Lasagna
+24,1.0,14,24.0,Chili
+25,2.0,14,25.0,Roast Beef Sandwich
+27,1.0,14,27.0,Salmon with Mashed Potatoes
+28,1.0,14,28.0,Penne Tomatoe Pasta
+29,5.0,14,29.0,Pork Sliders
+31,3.0,14,31.0,Chicken Wrap
+34,1.0,14,,Cowboy Burger
+36,1.0,14,,Cowboy Burger
+37,2.0,14,,Cowboy Burger
+39,2.0,14,,Cowboy Burger
+40,1.0,14,,Cowboy Burger
+44,1.0,14,,Cowboy Burger
+45,1.0,14,,Cowboy Burger
+47,3.0,14,,Cowboy Burger
+48,1.0,14,,Cowboy Burger
+49,1.0,14,,Cowboy Burger
+51,1.0,14,,Cowboy Burger
+52,5.0,14,,Cowboy Burger
+53,3.0,14,,Cowboy Burger
+54,1.0,14,,Cowboy Burger
+55,1.0,14,,Cowboy Burger
+56,1.0,14,,Cowboy Burger
+62,4.0,14,,Cowboy Burger
+63,5.0,14,,Cowboy Burger
+67,3.0,14,,Cowboy Burger
+68,1.0,14,,Cowboy Burger
+69,3.0,14,,Cowboy Burger
+71,1.0,14,,Cowboy Burger
+72,4.0,14,,Cowboy Burger
+73,1.0,14,,Cowboy Burger
+76,5.0,14,,Cowboy Burger
+79,1.0,14,,Cowboy Burger
+82,1.0,14,,Cowboy Burger
+83,1.0,14,,Cowboy Burger
+88,1.0,14,,Cowboy Burger
+93,3.0,14,,Cowboy Burger
+94,1.0,14,,Cowboy Burger
+95,2.0,14,,Cowboy Burger
+96,4.0,14,,Cowboy Burger
+98,1.0,14,,Cowboy Burger
+0,1.0,15,0.0,Cheese Pizza
+1,4.0,15,1.0,Burrito
+2,1.0,15,2.0,Chicken Curry
+5,2.0,15,5.0,Hamburger
+6,1.0,15,6.0,Spicy Pork Sliders
+7,1.0,15,7.0,Nachos
+13,1.0,15,13.0,Mandarin Chicken PLate
+14,1.0,15,14.0,Kung Pao Chicken
+15,1.0,15,15.0,BBQ Ribs
+17,2.0,15,17.0,Sushi Plate
+19,2.0,15,19.0,Cheesesteak Sandwhich
+22,2.0,15,22.0,Pulled Pork Plate
+23,2.0,15,23.0,Orange Chicken
+25,1.0,15,25.0,Roast Beef Sandwich
+26,3.0,15,26.0,Spicy Beef Plate
+27,1.0,15,27.0,Salmon with Mashed Potatoes
+28,2.0,15,28.0,Penne Tomatoe Pasta
+29,1.0,15,29.0,Pork Sliders
+32,1.0,15,,Cowboy Burger
+33,2.0,15,,Cowboy Burger
+34,1.0,15,,Cowboy Burger
+35,2.0,15,,Cowboy Burger
+36,1.0,15,,Cowboy Burger
+37,1.0,15,,Cowboy Burger
+39,1.0,15,,Cowboy Burger
+42,1.0,15,,Cowboy Burger
+46,5.0,15,,Cowboy Burger
+48,2.0,15,,Cowboy Burger
+50,2.0,15,,Cowboy Burger
+51,1.0,15,,Cowboy Burger
+52,1.0,15,,Cowboy Burger
+58,1.0,15,,Cowboy Burger
+62,1.0,15,,Cowboy Burger
+64,3.0,15,,Cowboy Burger
+65,2.0,15,,Cowboy Burger
+72,1.0,15,,Cowboy Burger
+73,1.0,15,,Cowboy Burger
+74,1.0,15,,Cowboy Burger
+79,1.0,15,,Cowboy Burger
+80,1.0,15,,Cowboy Burger
+81,1.0,15,,Cowboy Burger
+82,2.0,15,,Cowboy Burger
+85,1.0,15,,Cowboy Burger
+87,1.0,15,,Cowboy Burger
+91,2.0,15,,Cowboy Burger
+96,1.0,15,,Cowboy Burger
+97,1.0,15,,Cowboy Burger
+98,3.0,15,,Cowboy Burger
+2,1.0,16,2.0,Chicken Curry
+5,3.0,16,5.0,Hamburger
+6,2.0,16,6.0,Spicy Pork Sliders
+7,1.0,16,7.0,Nachos
+9,1.0,16,9.0,Taco Surprise
+12,1.0,16,12.0,Ceaser Salad
+14,1.0,16,14.0,Kung Pao Chicken
+15,1.0,16,15.0,BBQ Ribs
+19,1.0,16,19.0,Cheesesteak Sandwhich
+21,2.0,16,21.0,Lasagna
+29,4.0,16,29.0,Pork Sliders
+30,2.0,16,30.0,Vietnamese Sandwich
+32,1.0,16,,Cowboy Burger
+34,1.0,16,,Cowboy Burger
+36,1.0,16,,Cowboy Burger
+38,1.0,16,,Cowboy Burger
+46,1.0,16,,Cowboy Burger
+47,3.0,16,,Cowboy Burger
+48,1.0,16,,Cowboy Burger
+49,1.0,16,,Cowboy Burger
+50,1.0,16,,Cowboy Burger
+51,5.0,16,,Cowboy Burger
+54,5.0,16,,Cowboy Burger
+55,1.0,16,,Cowboy Burger
+56,2.0,16,,Cowboy Burger
+57,1.0,16,,Cowboy Burger
+60,1.0,16,,Cowboy Burger
+63,2.0,16,,Cowboy Burger
+65,1.0,16,,Cowboy Burger
+67,1.0,16,,Cowboy Burger
+72,1.0,16,,Cowboy Burger
+74,1.0,16,,Cowboy Burger
+80,1.0,16,,Cowboy Burger
+81,1.0,16,,Cowboy Burger
+82,1.0,16,,Cowboy Burger
+85,5.0,16,,Cowboy Burger
+86,1.0,16,,Cowboy Burger
+90,5.0,16,,Cowboy Burger
+91,1.0,16,,Cowboy Burger
+93,1.0,16,,Cowboy Burger
+94,3.0,16,,Cowboy Burger
+95,2.0,16,,Cowboy Burger
+96,3.0,16,,Cowboy Burger
+98,3.0,16,,Cowboy Burger
+99,1.0,16,,Cowboy Burger
+2,1.0,17,2.0,Chicken Curry
+3,1.0,17,3.0,Spicy Chicken Nuggest
+6,1.0,17,6.0,Spicy Pork Sliders
+10,4.0,17,10.0,Roasted Eggplant 
+11,1.0,17,11.0,Meatloaf
+13,2.0,17,13.0,Mandarin Chicken PLate
+17,5.0,17,17.0,Sushi Plate
+19,1.0,17,19.0,Cheesesteak Sandwhich
+20,5.0,17,20.0,Southwest Salad
+22,4.0,17,22.0,Pulled Pork Plate
+28,1.0,17,28.0,Penne Tomatoe Pasta
+29,1.0,17,29.0,Pork Sliders
+33,1.0,17,,Cowboy Burger
+34,1.0,17,,Cowboy Burger
+35,2.0,17,,Cowboy Burger
+37,1.0,17,,Cowboy Burger
+38,1.0,17,,Cowboy Burger
+45,1.0,17,,Cowboy Burger
+46,5.0,17,,Cowboy Burger
+47,1.0,17,,Cowboy Burger
+49,3.0,17,,Cowboy Burger
+51,1.0,17,,Cowboy Burger
+55,5.0,17,,Cowboy Burger
+56,3.0,17,,Cowboy Burger
+57,1.0,17,,Cowboy Burger
+58,1.0,17,,Cowboy Burger
+59,1.0,17,,Cowboy Burger
+60,1.0,17,,Cowboy Burger
+63,1.0,17,,Cowboy Burger
+66,1.0,17,,Cowboy Burger
+68,4.0,17,,Cowboy Burger
+69,1.0,17,,Cowboy Burger
+70,1.0,17,,Cowboy Burger
+72,1.0,17,,Cowboy Burger
+73,3.0,17,,Cowboy Burger
+78,1.0,17,,Cowboy Burger
+79,1.0,17,,Cowboy Burger
+82,2.0,17,,Cowboy Burger
+84,1.0,17,,Cowboy Burger
+90,5.0,17,,Cowboy Burger
+91,3.0,17,,Cowboy Burger
+92,1.0,17,,Cowboy Burger
+93,1.0,17,,Cowboy Burger
+94,4.0,17,,Cowboy Burger
+95,2.0,17,,Cowboy Burger
+97,1.0,17,,Cowboy Burger
+1,1.0,18,1.0,Burrito
+4,3.0,18,4.0,Pretzels and Cheese Plate
+5,2.0,18,5.0,Hamburger
+6,1.0,18,6.0,Spicy Pork Sliders
+7,1.0,18,7.0,Nachos
+10,1.0,18,10.0,Roasted Eggplant 
+11,4.0,18,11.0,Meatloaf
+12,2.0,18,12.0,Ceaser Salad
+13,1.0,18,13.0,Mandarin Chicken PLate
+15,1.0,18,15.0,BBQ Ribs
+18,1.0,18,18.0,Pepperoni Pizza
+20,1.0,18,20.0,Southwest Salad
+21,2.0,18,21.0,Lasagna
+22,1.0,18,22.0,Pulled Pork Plate
+23,2.0,18,23.0,Orange Chicken
+25,1.0,18,25.0,Roast Beef Sandwich
+26,1.0,18,26.0,Spicy Beef Plate
+27,1.0,18,27.0,Salmon with Mashed Potatoes
+28,5.0,18,28.0,Penne Tomatoe Pasta
+29,1.0,18,29.0,Pork Sliders
+31,1.0,18,31.0,Chicken Wrap
+32,1.0,18,,Cowboy Burger
+36,1.0,18,,Cowboy Burger
+38,5.0,18,,Cowboy Burger
+39,5.0,18,,Cowboy Burger
+40,1.0,18,,Cowboy Burger
+42,1.0,18,,Cowboy Burger
+43,1.0,18,,Cowboy Burger
+44,4.0,18,,Cowboy Burger
+46,1.0,18,,Cowboy Burger
+47,1.0,18,,Cowboy Burger
+48,1.0,18,,Cowboy Burger
+51,2.0,18,,Cowboy Burger
+55,1.0,18,,Cowboy Burger
+56,1.0,18,,Cowboy Burger
+57,1.0,18,,Cowboy Burger
+62,1.0,18,,Cowboy Burger
+63,1.0,18,,Cowboy Burger
+66,3.0,18,,Cowboy Burger
+67,1.0,18,,Cowboy Burger
+70,1.0,18,,Cowboy Burger
+75,1.0,18,,Cowboy Burger
+76,3.0,18,,Cowboy Burger
+77,1.0,18,,Cowboy Burger
+80,3.0,18,,Cowboy Burger
+81,3.0,18,,Cowboy Burger
+82,1.0,18,,Cowboy Burger
+83,5.0,18,,Cowboy Burger
+84,1.0,18,,Cowboy Burger
+97,1.0,18,,Cowboy Burger
+98,1.0,18,,Cowboy Burger
+99,2.0,18,,Cowboy Burger
+0,1.0,19,0.0,Cheese Pizza
+1,1.0,19,1.0,Burrito
+2,1.0,19,2.0,Chicken Curry
+4,1.0,19,4.0,Pretzels and Cheese Plate
+6,2.0,19,6.0,Spicy Pork Sliders
+11,1.0,19,11.0,Meatloaf
+12,1.0,19,12.0,Ceaser Salad
+14,1.0,19,14.0,Kung Pao Chicken
+23,1.0,19,23.0,Orange Chicken
+26,1.0,19,26.0,Spicy Beef Plate
+31,1.0,19,31.0,Chicken Wrap
+32,4.0,19,,Cowboy Burger
+33,1.0,19,,Cowboy Burger
+34,1.0,19,,Cowboy Burger
+37,1.0,19,,Cowboy Burger
+38,1.0,19,,Cowboy Burger
+41,1.0,19,,Cowboy Burger
+43,1.0,19,,Cowboy Burger
+45,1.0,19,,Cowboy Burger
+48,1.0,19,,Cowboy Burger
+49,1.0,19,,Cowboy Burger
+50,2.0,19,,Cowboy Burger
+53,2.0,19,,Cowboy Burger
+54,3.0,19,,Cowboy Burger
+55,1.0,19,,Cowboy Burger
+56,2.0,19,,Cowboy Burger
+58,1.0,19,,Cowboy Burger
+61,1.0,19,,Cowboy Burger
+62,1.0,19,,Cowboy Burger
+63,1.0,19,,Cowboy Burger
+64,1.0,19,,Cowboy Burger
+65,1.0,19,,Cowboy Burger
+69,2.0,19,,Cowboy Burger
+72,1.0,19,,Cowboy Burger
+74,3.0,19,,Cowboy Burger
+76,1.0,19,,Cowboy Burger
+78,1.0,19,,Cowboy Burger
+79,1.0,19,,Cowboy Burger
+81,1.0,19,,Cowboy Burger
+82,1.0,19,,Cowboy Burger
+84,1.0,19,,Cowboy Burger
+86,1.0,19,,Cowboy Burger
+87,2.0,19,,Cowboy Burger
+90,4.0,19,,Cowboy Burger
+93,1.0,19,,Cowboy Burger
+94,4.0,19,,Cowboy Burger
+95,2.0,19,,Cowboy Burger
+96,1.0,19,,Cowboy Burger
+98,4.0,19,,Cowboy Burger
+0,1.0,20,0.0,Cheese Pizza
+1,1.0,20,1.0,Burrito
+2,2.0,20,2.0,Chicken Curry
+4,2.0,20,4.0,Pretzels and Cheese Plate
+6,1.0,20,6.0,Spicy Pork Sliders
+8,1.0,20,8.0,Chicken Chow Mein
+12,1.0,20,12.0,Ceaser Salad
+21,2.0,20,21.0,Lasagna
+22,5.0,20,22.0,Pulled Pork Plate
+24,2.0,20,24.0,Chili
+25,1.0,20,25.0,Roast Beef Sandwich
+26,1.0,20,26.0,Spicy Beef Plate
+29,2.0,20,29.0,Pork Sliders
+30,2.0,20,30.0,Vietnamese Sandwich
+32,2.0,20,,Cowboy Burger
+39,1.0,20,,Cowboy Burger
+40,1.0,20,,Cowboy Burger
+41,2.0,20,,Cowboy Burger
+45,2.0,20,,Cowboy Burger
+48,1.0,20,,Cowboy Burger
+50,1.0,20,,Cowboy Burger
+51,3.0,20,,Cowboy Burger
+53,3.0,20,,Cowboy Burger
+55,1.0,20,,Cowboy Burger
+57,2.0,20,,Cowboy Burger
+60,1.0,20,,Cowboy Burger
+61,1.0,20,,Cowboy Burger
+64,1.0,20,,Cowboy Burger
+66,1.0,20,,Cowboy Burger
+70,2.0,20,,Cowboy Burger
+72,1.0,20,,Cowboy Burger
+73,2.0,20,,Cowboy Burger
+75,4.0,20,,Cowboy Burger
+76,1.0,20,,Cowboy Burger
+77,4.0,20,,Cowboy Burger
+78,1.0,20,,Cowboy Burger
+79,1.0,20,,Cowboy Burger
+84,2.0,20,,Cowboy Burger
+85,2.0,20,,Cowboy Burger
+88,3.0,20,,Cowboy Burger
+89,1.0,20,,Cowboy Burger
+90,3.0,20,,Cowboy Burger
+91,1.0,20,,Cowboy Burger
+92,2.0,20,,Cowboy Burger
+93,1.0,20,,Cowboy Burger
+94,4.0,20,,Cowboy Burger
+97,1.0,20,,Cowboy Burger
+0,1.0,21,0.0,Cheese Pizza
+2,4.0,21,2.0,Chicken Curry
+3,1.0,21,3.0,Spicy Chicken Nuggest
+7,2.0,21,7.0,Nachos
+11,1.0,21,11.0,Meatloaf
+12,1.0,21,12.0,Ceaser Salad
+13,1.0,21,13.0,Mandarin Chicken PLate
+14,3.0,21,14.0,Kung Pao Chicken
+17,1.0,21,17.0,Sushi Plate
+19,1.0,21,19.0,Cheesesteak Sandwhich
+20,1.0,21,20.0,Southwest Salad
+21,1.0,21,21.0,Lasagna
+22,1.0,21,22.0,Pulled Pork Plate
+23,1.0,21,23.0,Orange Chicken
+24,1.0,21,24.0,Chili
+27,1.0,21,27.0,Salmon with Mashed Potatoes
+29,5.0,21,29.0,Pork Sliders
+30,2.0,21,30.0,Vietnamese Sandwich
+38,1.0,21,,Cowboy Burger
+40,2.0,21,,Cowboy Burger
+43,3.0,21,,Cowboy Burger
+44,1.0,21,,Cowboy Burger
+45,1.0,21,,Cowboy Burger
+46,1.0,21,,Cowboy Burger
+48,1.0,21,,Cowboy Burger
+51,1.0,21,,Cowboy Burger
+53,5.0,21,,Cowboy Burger
+54,1.0,21,,Cowboy Burger
+55,1.0,21,,Cowboy Burger
+56,1.0,21,,Cowboy Burger
+58,3.0,21,,Cowboy Burger
+59,3.0,21,,Cowboy Burger
+64,1.0,21,,Cowboy Burger
+66,1.0,21,,Cowboy Burger
+68,1.0,21,,Cowboy Burger
+71,1.0,21,,Cowboy Burger
+73,1.0,21,,Cowboy Burger
+74,4.0,21,,Cowboy Burger
+80,1.0,21,,Cowboy Burger
+81,1.0,21,,Cowboy Burger
+83,1.0,21,,Cowboy Burger
+84,1.0,21,,Cowboy Burger
+85,3.0,21,,Cowboy Burger
+87,4.0,21,,Cowboy Burger
+89,2.0,21,,Cowboy Burger
+92,2.0,21,,Cowboy Burger
+96,3.0,21,,Cowboy Burger
+99,1.0,21,,Cowboy Burger
+0,1.0,22,0.0,Cheese Pizza
+3,2.0,22,3.0,Spicy Chicken Nuggest
+5,2.0,22,5.0,Hamburger
+6,2.0,22,6.0,Spicy Pork Sliders
+9,1.0,22,9.0,Taco Surprise
+10,1.0,22,10.0,Roasted Eggplant 
+11,1.0,22,11.0,Meatloaf
+13,1.0,22,13.0,Mandarin Chicken PLate
+14,1.0,22,14.0,Kung Pao Chicken
+16,1.0,22,16.0,Fried Rice Plate
+18,3.0,22,18.0,Pepperoni Pizza
+19,1.0,22,19.0,Cheesesteak Sandwhich
+22,5.0,22,22.0,Pulled Pork Plate
+25,1.0,22,25.0,Roast Beef Sandwich
+26,1.0,22,26.0,Spicy Beef Plate
+29,3.0,22,29.0,Pork Sliders
+30,5.0,22,30.0,Vietnamese Sandwich
+32,4.0,22,,Cowboy Burger
+33,1.0,22,,Cowboy Burger
+35,1.0,22,,Cowboy Burger
+36,3.0,22,,Cowboy Burger
+37,1.0,22,,Cowboy Burger
+40,1.0,22,,Cowboy Burger
+41,3.0,22,,Cowboy Burger
+44,1.0,22,,Cowboy Burger
+45,2.0,22,,Cowboy Burger
+48,1.0,22,,Cowboy Burger
+51,5.0,22,,Cowboy Burger
+55,1.0,22,,Cowboy Burger
+56,2.0,22,,Cowboy Burger
+60,3.0,22,,Cowboy Burger
+61,1.0,22,,Cowboy Burger
+62,4.0,22,,Cowboy Burger
+63,1.0,22,,Cowboy Burger
+65,1.0,22,,Cowboy Burger
+66,1.0,22,,Cowboy Burger
+68,4.0,22,,Cowboy Burger
+69,4.0,22,,Cowboy Burger
+70,3.0,22,,Cowboy Burger
+71,1.0,22,,Cowboy Burger
+74,5.0,22,,Cowboy Burger
+75,5.0,22,,Cowboy Burger
+78,1.0,22,,Cowboy Burger
+80,3.0,22,,Cowboy Burger
+81,1.0,22,,Cowboy Burger
+82,1.0,22,,Cowboy Burger
+84,1.0,22,,Cowboy Burger
+86,1.0,22,,Cowboy Burger
+87,3.0,22,,Cowboy Burger
+88,5.0,22,,Cowboy Burger
+90,2.0,22,,Cowboy Burger
+92,3.0,22,,Cowboy Burger
+95,2.0,22,,Cowboy Burger
+96,2.0,22,,Cowboy Burger
+98,4.0,22,,Cowboy Burger
+99,1.0,22,,Cowboy Burger
+0,1.0,23,0.0,Cheese Pizza
+2,1.0,23,2.0,Chicken Curry
+4,1.0,23,4.0,Pretzels and Cheese Plate
+6,2.0,23,6.0,Spicy Pork Sliders
+10,4.0,23,10.0,Roasted Eggplant 
+12,1.0,23,12.0,Ceaser Salad
+13,4.0,23,13.0,Mandarin Chicken PLate
+14,1.0,23,14.0,Kung Pao Chicken
+15,1.0,23,15.0,BBQ Ribs
+18,4.0,23,18.0,Pepperoni Pizza
+22,2.0,23,22.0,Pulled Pork Plate
+23,4.0,23,23.0,Orange Chicken
+24,1.0,23,24.0,Chili
+25,1.0,23,25.0,Roast Beef Sandwich
+26,1.0,23,26.0,Spicy Beef Plate
+27,5.0,23,27.0,Salmon with Mashed Potatoes
+28,1.0,23,28.0,Penne Tomatoe Pasta
+29,1.0,23,29.0,Pork Sliders
+30,4.0,23,30.0,Vietnamese Sandwich
+32,5.0,23,,Cowboy Burger
+33,2.0,23,,Cowboy Burger
+36,3.0,23,,Cowboy Burger
+37,1.0,23,,Cowboy Burger
+38,1.0,23,,Cowboy Burger
+39,1.0,23,,Cowboy Burger
+43,1.0,23,,Cowboy Burger
+48,5.0,23,,Cowboy Burger
+49,5.0,23,,Cowboy Burger
+50,4.0,23,,Cowboy Burger
+53,1.0,23,,Cowboy Burger
+55,5.0,23,,Cowboy Burger
+57,1.0,23,,Cowboy Burger
+59,1.0,23,,Cowboy Burger
+60,1.0,23,,Cowboy Burger
+61,1.0,23,,Cowboy Burger
+64,4.0,23,,Cowboy Burger
+65,5.0,23,,Cowboy Burger
+66,2.0,23,,Cowboy Burger
+67,1.0,23,,Cowboy Burger
+68,3.0,23,,Cowboy Burger
+69,1.0,23,,Cowboy Burger
+72,1.0,23,,Cowboy Burger
+73,3.0,23,,Cowboy Burger
+77,1.0,23,,Cowboy Burger
+82,2.0,23,,Cowboy Burger
+83,1.0,23,,Cowboy Burger
+84,1.0,23,,Cowboy Burger
+85,1.0,23,,Cowboy Burger
+87,3.0,23,,Cowboy Burger
+88,1.0,23,,Cowboy Burger
+95,2.0,23,,Cowboy Burger
+97,1.0,23,,Cowboy Burger
+4,1.0,24,4.0,Pretzels and Cheese Plate
+6,3.0,24,6.0,Spicy Pork Sliders
+7,1.0,24,7.0,Nachos
+10,2.0,24,10.0,Roasted Eggplant 
+12,1.0,24,12.0,Ceaser Salad
+15,1.0,24,15.0,BBQ Ribs
+19,1.0,24,19.0,Cheesesteak Sandwhich
+24,1.0,24,24.0,Chili
+27,3.0,24,27.0,Salmon with Mashed Potatoes
+30,5.0,24,30.0,Vietnamese Sandwich
+31,1.0,24,31.0,Chicken Wrap
+32,3.0,24,,Cowboy Burger
+33,1.0,24,,Cowboy Burger
+37,1.0,24,,Cowboy Burger
+39,1.0,24,,Cowboy Burger
+40,1.0,24,,Cowboy Burger
+42,1.0,24,,Cowboy Burger
+43,3.0,24,,Cowboy Burger
+45,2.0,24,,Cowboy Burger
+46,1.0,24,,Cowboy Burger
+47,1.0,24,,Cowboy Burger
+48,1.0,24,,Cowboy Burger
+49,1.0,24,,Cowboy Burger
+50,1.0,24,,Cowboy Burger
+52,5.0,24,,Cowboy Burger
+57,1.0,24,,Cowboy Burger
+59,4.0,24,,Cowboy Burger
+63,4.0,24,,Cowboy Burger
+65,1.0,24,,Cowboy Burger
+66,1.0,24,,Cowboy Burger
+67,1.0,24,,Cowboy Burger
+68,3.0,24,,Cowboy Burger
+69,5.0,24,,Cowboy Burger
+71,1.0,24,,Cowboy Burger
+72,4.0,24,,Cowboy Burger
+77,4.0,24,,Cowboy Burger
+78,1.0,24,,Cowboy Burger
+80,1.0,24,,Cowboy Burger
+82,1.0,24,,Cowboy Burger
+84,1.0,24,,Cowboy Burger
+86,1.0,24,,Cowboy Burger
+87,1.0,24,,Cowboy Burger
+88,2.0,24,,Cowboy Burger
+89,1.0,24,,Cowboy Burger
+90,5.0,24,,Cowboy Burger
+91,1.0,24,,Cowboy Burger
+92,1.0,24,,Cowboy Burger
+94,2.0,24,,Cowboy Burger
+95,1.0,24,,Cowboy Burger
+96,5.0,24,,Cowboy Burger
+98,1.0,24,,Cowboy Burger
+99,1.0,24,,Cowboy Burger
+1,3.0,25,1.0,Burrito
+2,1.0,25,2.0,Chicken Curry
+7,1.0,25,7.0,Nachos
+9,1.0,25,9.0,Taco Surprise
+12,3.0,25,12.0,Ceaser Salad
+16,3.0,25,16.0,Fried Rice Plate
+17,1.0,25,17.0,Sushi Plate
+18,1.0,25,18.0,Pepperoni Pizza
+20,1.0,25,20.0,Southwest Salad
+22,1.0,25,22.0,Pulled Pork Plate
+23,1.0,25,23.0,Orange Chicken
+26,2.0,25,26.0,Spicy Beef Plate
+29,1.0,25,29.0,Pork Sliders
+30,1.0,25,30.0,Vietnamese Sandwich
+31,2.0,25,31.0,Chicken Wrap
+33,4.0,25,,Cowboy Burger
+34,3.0,25,,Cowboy Burger
+35,2.0,25,,Cowboy Burger
+36,1.0,25,,Cowboy Burger
+37,1.0,25,,Cowboy Burger
+40,1.0,25,,Cowboy Burger
+41,1.0,25,,Cowboy Burger
+43,1.0,25,,Cowboy Burger
+47,4.0,25,,Cowboy Burger
+50,1.0,25,,Cowboy Burger
+51,1.0,25,,Cowboy Burger
+53,1.0,25,,Cowboy Burger
+56,1.0,25,,Cowboy Burger
+58,2.0,25,,Cowboy Burger
+64,2.0,25,,Cowboy Burger
+67,2.0,25,,Cowboy Burger
+68,1.0,25,,Cowboy Burger
+70,1.0,25,,Cowboy Burger
+71,4.0,25,,Cowboy Burger
+73,1.0,25,,Cowboy Burger
+74,1.0,25,,Cowboy Burger
+76,1.0,25,,Cowboy Burger
+79,1.0,25,,Cowboy Burger
+82,1.0,25,,Cowboy Burger
+84,2.0,25,,Cowboy Burger
+85,1.0,25,,Cowboy Burger
+91,3.0,25,,Cowboy Burger
+92,1.0,25,,Cowboy Burger
+94,1.0,25,,Cowboy Burger
+95,1.0,25,,Cowboy Burger
+97,2.0,25,,Cowboy Burger
+0,1.0,26,0.0,Cheese Pizza
+1,1.0,26,1.0,Burrito
+2,1.0,26,2.0,Chicken Curry
+3,1.0,26,3.0,Spicy Chicken Nuggest
+4,4.0,26,4.0,Pretzels and Cheese Plate
+5,2.0,26,5.0,Hamburger
+6,3.0,26,6.0,Spicy Pork Sliders
+7,5.0,26,7.0,Nachos
+13,3.0,26,13.0,Mandarin Chicken PLate
+14,1.0,26,14.0,Kung Pao Chicken
+16,1.0,26,16.0,Fried Rice Plate
+18,3.0,26,18.0,Pepperoni Pizza
+20,1.0,26,20.0,Southwest Salad
+21,3.0,26,21.0,Lasagna
+22,5.0,26,22.0,Pulled Pork Plate
+23,5.0,26,23.0,Orange Chicken
+24,5.0,26,24.0,Chili
+27,1.0,26,27.0,Salmon with Mashed Potatoes
+31,1.0,26,31.0,Chicken Wrap
+35,1.0,26,,Cowboy Burger
+36,4.0,26,,Cowboy Burger
+40,1.0,26,,Cowboy Burger
+44,1.0,26,,Cowboy Burger
+45,2.0,26,,Cowboy Burger
+47,1.0,26,,Cowboy Burger
+48,1.0,26,,Cowboy Burger
+49,3.0,26,,Cowboy Burger
+50,2.0,26,,Cowboy Burger
+52,1.0,26,,Cowboy Burger
+54,4.0,26,,Cowboy Burger
+55,1.0,26,,Cowboy Burger
+57,3.0,26,,Cowboy Burger
+58,1.0,26,,Cowboy Burger
+61,1.0,26,,Cowboy Burger
+62,2.0,26,,Cowboy Burger
+66,1.0,26,,Cowboy Burger
+68,4.0,26,,Cowboy Burger
+71,1.0,26,,Cowboy Burger
+73,4.0,26,,Cowboy Burger
+76,1.0,26,,Cowboy Burger
+81,3.0,26,,Cowboy Burger
+85,1.0,26,,Cowboy Burger
+86,3.0,26,,Cowboy Burger
+88,5.0,26,,Cowboy Burger
+91,1.0,26,,Cowboy Burger
+94,5.0,26,,Cowboy Burger
+95,1.0,26,,Cowboy Burger
+96,1.0,26,,Cowboy Burger
+97,1.0,26,,Cowboy Burger
+0,1.0,27,0.0,Cheese Pizza
+9,1.0,27,9.0,Taco Surprise
+10,1.0,27,10.0,Roasted Eggplant 
+18,4.0,27,18.0,Pepperoni Pizza
+19,3.0,27,19.0,Cheesesteak Sandwhich
+20,1.0,27,20.0,Southwest Salad
+22,2.0,27,22.0,Pulled Pork Plate
+24,2.0,27,24.0,Chili
+25,1.0,27,25.0,Roast Beef Sandwich
+27,3.0,27,27.0,Salmon with Mashed Potatoes
+28,1.0,27,28.0,Penne Tomatoe Pasta
+29,1.0,27,29.0,Pork Sliders
+31,1.0,27,31.0,Chicken Wrap
+33,3.0,27,,Cowboy Burger
+40,1.0,27,,Cowboy Burger
+42,1.0,27,,Cowboy Burger
+43,1.0,27,,Cowboy Burger
+44,3.0,27,,Cowboy Burger
+45,1.0,27,,Cowboy Burger
+51,3.0,27,,Cowboy Burger
+52,1.0,27,,Cowboy Burger
+55,3.0,27,,Cowboy Burger
+57,1.0,27,,Cowboy Burger
+59,1.0,27,,Cowboy Burger
+60,1.0,27,,Cowboy Burger
+61,1.0,27,,Cowboy Burger
+64,1.0,27,,Cowboy Burger
+66,3.0,27,,Cowboy Burger
+68,1.0,27,,Cowboy Burger
+70,1.0,27,,Cowboy Burger
+71,2.0,27,,Cowboy Burger
+72,1.0,27,,Cowboy Burger
+75,3.0,27,,Cowboy Burger
+78,1.0,27,,Cowboy Burger
+80,3.0,27,,Cowboy Burger
+82,1.0,27,,Cowboy Burger
+83,3.0,27,,Cowboy Burger
+86,1.0,27,,Cowboy Burger
+87,2.0,27,,Cowboy Burger
+90,1.0,27,,Cowboy Burger
+91,1.0,27,,Cowboy Burger
+92,1.0,27,,Cowboy Burger
+93,1.0,27,,Cowboy Burger
+94,2.0,27,,Cowboy Burger
+95,1.0,27,,Cowboy Burger
+98,1.0,27,,Cowboy Burger
+0,3.0,28,0.0,Cheese Pizza
+1,1.0,28,1.0,Burrito
+2,4.0,28,2.0,Chicken Curry
+3,1.0,28,3.0,Spicy Chicken Nuggest
+6,1.0,28,6.0,Spicy Pork Sliders
+7,1.0,28,7.0,Nachos
+12,5.0,28,12.0,Ceaser Salad
+13,2.0,28,13.0,Mandarin Chicken PLate
+14,1.0,28,14.0,Kung Pao Chicken
+15,1.0,28,15.0,BBQ Ribs
+17,1.0,28,17.0,Sushi Plate
+19,3.0,28,19.0,Cheesesteak Sandwhich
+20,1.0,28,20.0,Southwest Salad
+23,3.0,28,23.0,Orange Chicken
+24,3.0,28,24.0,Chili
+27,1.0,28,27.0,Salmon with Mashed Potatoes
+29,1.0,28,29.0,Pork Sliders
+33,1.0,28,,Cowboy Burger
+34,1.0,28,,Cowboy Burger
+36,1.0,28,,Cowboy Burger
+38,2.0,28,,Cowboy Burger
+39,2.0,28,,Cowboy Burger
+44,1.0,28,,Cowboy Burger
+45,1.0,28,,Cowboy Burger
+49,4.0,28,,Cowboy Burger
+50,1.0,28,,Cowboy Burger
+52,1.0,28,,Cowboy Burger
+54,1.0,28,,Cowboy Burger
+56,1.0,28,,Cowboy Burger
+57,3.0,28,,Cowboy Burger
+58,1.0,28,,Cowboy Burger
+59,1.0,28,,Cowboy Burger
+60,1.0,28,,Cowboy Burger
+62,3.0,28,,Cowboy Burger
+63,1.0,28,,Cowboy Burger
+65,1.0,28,,Cowboy Burger
+75,1.0,28,,Cowboy Burger
+78,1.0,28,,Cowboy Burger
+81,5.0,28,,Cowboy Burger
+82,4.0,28,,Cowboy Burger
+83,1.0,28,,Cowboy Burger
+85,1.0,28,,Cowboy Burger
+88,2.0,28,,Cowboy Burger
+89,4.0,28,,Cowboy Burger
+90,1.0,28,,Cowboy Burger
+92,5.0,28,,Cowboy Burger
+94,1.0,28,,Cowboy Burger
+95,2.0,28,,Cowboy Burger
+98,1.0,28,,Cowboy Burger
+99,1.0,28,,Cowboy Burger
+3,1.0,29,3.0,Spicy Chicken Nuggest
+4,1.0,29,4.0,Pretzels and Cheese Plate
+5,1.0,29,5.0,Hamburger
+7,2.0,29,7.0,Nachos
+9,1.0,29,9.0,Taco Surprise
+10,3.0,29,10.0,Roasted Eggplant 
+11,1.0,29,11.0,Meatloaf
+13,3.0,29,13.0,Mandarin Chicken PLate
+14,1.0,29,14.0,Kung Pao Chicken
+15,1.0,29,15.0,BBQ Ribs
+17,3.0,29,17.0,Sushi Plate
+19,3.0,29,19.0,Cheesesteak Sandwhich
+22,3.0,29,22.0,Pulled Pork Plate
+23,4.0,29,23.0,Orange Chicken
+25,1.0,29,25.0,Roast Beef Sandwich
+29,1.0,29,29.0,Pork Sliders
+31,1.0,29,31.0,Chicken Wrap
+32,4.0,29,,Cowboy Burger
+33,2.0,29,,Cowboy Burger
+36,2.0,29,,Cowboy Burger
+38,3.0,29,,Cowboy Burger
+39,1.0,29,,Cowboy Burger
+42,1.0,29,,Cowboy Burger
+46,5.0,29,,Cowboy Burger
+49,3.0,29,,Cowboy Burger
+51,2.0,29,,Cowboy Burger
+59,1.0,29,,Cowboy Burger
+61,1.0,29,,Cowboy Burger
+62,1.0,29,,Cowboy Burger
+67,1.0,29,,Cowboy Burger
+68,3.0,29,,Cowboy Burger
+69,1.0,29,,Cowboy Burger
+70,1.0,29,,Cowboy Burger
+74,1.0,29,,Cowboy Burger
+75,1.0,29,,Cowboy Burger
+79,2.0,29,,Cowboy Burger
+80,1.0,29,,Cowboy Burger
+81,2.0,29,,Cowboy Burger
+83,1.0,29,,Cowboy Burger
+85,1.0,29,,Cowboy Burger
+86,1.0,29,,Cowboy Burger
+90,4.0,29,,Cowboy Burger
+93,1.0,29,,Cowboy Burger
+94,4.0,29,,Cowboy Burger
+97,1.0,29,,Cowboy Burger
+99,1.0,29,,Cowboy Burger
